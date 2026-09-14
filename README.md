@@ -1,14 +1,6 @@
 # 🐍 Curso em Vídeo - Python
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Em%20Andamento-brightgreen)]()
-[![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
-
-</div>
-
-Repositório oficial dedicado à resolução dos exercícios, desafios e projetos práticos desenvolvidos durante as aulas de Python do **Curso em Vídeo**, ministradas pelo professor Gustavo Guanabara.
+Repositório dedicado à resolução dos exercícios, desafios e projetos práticos desenvolvidos durante as aulas de Python do **Curso em Vídeo**, ministradas pelo professor Gustavo Guanabara.
 
 ---
 
@@ -36,4 +28,7 @@ O aprendizado é dividido em módulos (*Mundos*), focando desde a lógica de pro
 * **Ambiente de Desenvolvimento:** PyCharm IDE
 * **Controle de Versão:** Git & GitHub
 
+<div align="center">
+[![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
+</div>
 
