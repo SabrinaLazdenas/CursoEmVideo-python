@@ -1,20 +1,39 @@
 # 🐍 Curso em Vídeo - Python
 
-Repositório oficial dedicado à resolução dos exercícios e projetos práticos desenvolvidos durante as aulas de Python do **Curso em Vídeo**, ministradas pelo professor Gustavo Guanabara.
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Em%20Andamento-brightgreen)]()
+[![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+</div>
+
+Repositório oficial dedicado à resolução dos exercícios, desafios e projetos práticos desenvolvidos durante as aulas de Python do **Curso em Vídeo**, ministradas pelo professor Gustavo Guanabara.
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📚 Conteúdo do Curso
 
-O conteúdo está organizado por módulos (Mundos), acompanhando a progressão do curso:
+O aprendizado é dividido em módulos (*Mundos*), focando desde a lógica de programação básica até conceitos mais avançados:
 
-* **`PythonExercicios-mundo1/`** — Primeiros passos, tipos primitivos, operadores aritméticos, módulos e as primeiras estruturas condicionais (`if`, `elif`, `else`).
-* **`PythonExercicios-mundo2/`** — Aprofundamento em estruturas de controle de fluxo, laços de repetição (`for`, `while`) e interrupções.
+### 🌍 Mundo 1: Fundamentos
+* **Primeiros passos:** Configuração do ambiente, comandos básicos e primeiros scripts (`print`, `input`).
+* **Tipos Primitivos:** Manipulação de strings, inteiros, floats e booleanos.
+* **Operadores Aritméticos:** Cálculos matemáticos, ordem de precedência e módulos.
+* **Módulos do Python:** Utilização da biblioteca `math`, sorteios (`random`) e manipulação de textos.
+* **Condicionais (Parte 1):** Estruturas de decisão simples e compostas com `if` e `else`.
+
+### 🌍 Mundo 2: Estruturas de Controle
+* **Condicionais Aninhadas:** Uso de `elif` para múltiplas escolhas.
+* **Laço de Repetição `for`:** Estruturas de repetição com variação contada.
+* **Laço de Repetição `while`:** Laços condicionais, flags e controle de fluxo com `break`.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagem:** Python versão 3.14
-* **IDE:** PyCharm
+* **Linguagem:** Python 3.14
+* **Ambiente de Desenvolvimento:** PyCharm IDE
 * **Controle de Versão:** Git & GitHub
+
+
