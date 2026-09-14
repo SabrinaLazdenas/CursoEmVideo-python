@@ -29,6 +29,8 @@ O aprendizado é dividido em módulos (*Mundos*), focando desde a lógica de pro
 * **Controle de Versão:** Git & GitHub
 
 <div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
+
 </div>
 
